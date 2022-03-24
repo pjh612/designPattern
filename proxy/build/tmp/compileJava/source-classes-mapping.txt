@@ -1,0 +1,18 @@
+protecttion_proxy/PersonBean.java
+ protecttion_proxy.PersonBean
+protecttion_proxy/Grade.java
+ protecttion_proxy.Grade
+virtual_proxy/Subject.java
+ virtual_proxy.Subject
+virtual_proxy/secret/SecretProvider.java
+ virtual_proxy.secret.SecretProvider
+virtual_proxy/VirtualProxyTest.java
+ virtual_proxy.VirtualProxyTest
+protecttion_proxy/PersonBeanImpl.java
+ protecttion_proxy.PersonBeanImpl
+virtual_proxy/HighCostSubject.java
+ virtual_proxy.HighCostSubject
+protecttion_proxy/PersonInvocationHandler.java
+ protecttion_proxy.PersonInvocationHandler
+virtual_proxy/ProxySubject.java
+ virtual_proxy.ProxySubject
