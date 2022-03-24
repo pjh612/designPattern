@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ProtectionProxyTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-24T15:26:22" hostname="DESKTOP-7HURUEO" time="0.027">
-  <properties/>
-  <testcase name="test()" classname="ProtectionProxyTest" time="0.027"/>
-  <system-out><![CDATA[접근 권한이 없습니다.
-접근 권한이 없습니다.
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
